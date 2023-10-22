@@ -1,6 +1,6 @@
 # 231009_dev_clicked_template
 The template repository for the data for the 10/09/2023 Developer Sprint for Clicked.
-
+Sri Gajula new repository
 #Intro
 
 This three-week Team Sprint will give aspiring Salesforce professionals the skills they need to be more comfortable as a Salesforce Developer. You will gain a base level understanding of a Business Analyst’s tasks of refining user stories and identifying business case definitions to scope a solution to meet a client’s business needs. You’ll then apply that base level understanding while you go through a list of tasks as a Developer in a Salesforce instance. These tasks will be specifically tailored to the Salesforce Developer role to assist you in passing the exam, and more importantly, give you hands-on practice into the setup, API Calls, visualforce pages and other out of the box features native to Salesforce.
